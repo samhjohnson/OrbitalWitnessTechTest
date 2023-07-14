@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScheduleOfNoticesOfLeasesParser": {
+      "commandName": "Project",
+      "commandLineArgs": "--input-file \"..\\..\\..\\Data\\schedule_of_notices_of_lease_examples.json\" --output-file test.json"
+    }
+  }
+}
